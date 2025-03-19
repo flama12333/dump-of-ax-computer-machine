@@ -1,6 +1,5 @@
 # dump-of-ax-computer-machine
 in japan they released ax machine but it seems that the software and the machine was not preserved.
-
 Oki Electric Industry if386AX30 Series/50 Series - only oki if386ax unknown model was dumped
 Casio* AX-8000D/8000L - not dumped
 Canon* Axi (DX-20/20P/10/10P) - not dumped
