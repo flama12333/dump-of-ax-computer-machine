@@ -12,7 +12,7 @@ in japan they released ax machine but it seems that the software and the machine
 - Victor Company of Japan JVC - not dumped
 - Nihon Unisys, Ltd. - not dumped
 - Hitachi FLORA 3010 series/3020 series - not dumped
-- Mitsubishi Electric MAXY (
+- Mitsubishi Electric MAXY
 - M3201 - not dumped
 - M3202 - not dumped
 - M3205 - MAXY DT2  - 386SX-16 mhz - not dumped
