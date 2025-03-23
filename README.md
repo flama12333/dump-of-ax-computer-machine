@@ -16,6 +16,7 @@ in japan they released ax machine but it seems that the software and the machine
 - M3201 - not dumped
 - M3202 - not dumped
 - M3205 - MAXY DT2  - 386SX-16 mhz - not dumped
+- MP286L - Export version currently dumped except the hdd controller.
 - Yokogawa Hewlett-Packard Vectra-AX Series - not dumped
 - Mitsui Digital (DELL) - not dumped
 - Olivetti Japan - unknown model not dumped
