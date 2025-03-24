@@ -21,8 +21,7 @@ in japan they released ax machine but it seems that the software and the machine
 - Mitsui Digital (DELL) - not dumped
 - Olivetti Japan - unknown model not dumped
 there are some not listed
-Dumped.
-OKI if386AX30L
-Unrelated
-mitsubishi mp286l 
-just ibm clone but same string without ja at 7ff0
+- Dumped.
+- OKI if386AX30L
+- Unrelated
+- mitsubishi mp286l just ibm clone but same string without ja at 7ff0
