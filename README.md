@@ -1,8 +1,8 @@
 # dump-of-ax-computer-machine
 -in japan they released ax machine but it seems that the software and the machine was not preserved.
--there are two custom chip
--V6367 is the JEGA chip. 
--M6226Y is a kanji font ROM
+- there are two custom chip
+- V6367 is the JEGA chip. 
+- M6226Y is a kanji font ROM
 
 - Oki Electric Industry if386AX30 Series/50 Series - only oki if386ax unknown model was dumped
 - Casio  AX-8000D/8000L - not dumped
