@@ -20,3 +20,4 @@ in japan they released ax machine but it seems that the software and the machine
 - Yokogawa Hewlett-Packard Vectra-AX Series - not dumped
 - Mitsui Digital (DELL) - not dumped
 - Olivetti Japan - unknown model not dumped
+there are some not listed
