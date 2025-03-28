@@ -24,7 +24,12 @@
 - Yokogawa Hewlett-Packard Vectra-AX Series - not dumped
 - Mitsui Digital (DELL) - not dumped
 - Olivetti Japan - unknown model not dumped
+
+- known computer
+- oki if486VX src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
+
 there are some not listed
+
 - Dumped.
 - OKI if386AX30L except the m6226y rom font
 - Unrelated
