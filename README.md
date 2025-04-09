@@ -27,7 +27,8 @@
 
 - known computer
 - oki if486VX src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
-
+- Sharp ax386d https://x.com/noriq2star/status/1907452126927692150
+- Sharp ax386s https://x.com/metal_toufu/status/1791702891700654494
 there are some not listed
 
 - Dumped.
