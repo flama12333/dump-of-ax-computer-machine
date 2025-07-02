@@ -9,7 +9,7 @@
 - Canon  Axi (DX-20/20P/10/10P) - not dumped
 - Kyocera  AX386 model A - not dumped
 - SANYO Electric MCB-17 series/18 series - not dumped
-- Sharp AX286D/286L/AX386 (MZ-8000) - not dumped. only Sharp AX286D and Sharp Jega-2 unkown rev are dumped.
+- Sharp AX286D/286L/AX386 (MZ-8000) - not dumped. only Sharp AX286D mz- unknown model and Sharp Jega-2 unkown rev are dumped.
 - Sony Quarter L (PCX-300 series) - not dumped
 - Acer Acer 1100/1200/1170 - not dumped
 - NCR PC-AXL/PC-AX32 - not dumped
