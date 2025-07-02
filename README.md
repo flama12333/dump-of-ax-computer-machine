@@ -34,4 +34,4 @@ there are some not listed
 - Dumped.
 - OKI if386AX30L except the m6226y rom font
 - Unrelated
-- mitsubishi mp286l just ibm clone but same string without ja at 7ff0
+- mitsubishi mp286l just ibm clone but same string without ja at 7ff0. Missing hdd controller dump
