@@ -1,4 +1,6 @@
 # dump-of-ax-computer-machine
+# This repository is intended for upload dump of ax that was not dumped
+
 -in japan they released ax machine but it seems that the software and the machine was not preserved also the jega and ax machine.
 - there are two custom chip
 - V6367 is the JEGA chip. 
