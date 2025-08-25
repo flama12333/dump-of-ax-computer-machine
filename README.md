@@ -35,15 +35,15 @@
 - Mitsubishi M3201 - MAXY LT2 - Not dumped
 - Mitsubishi M3202 - MAXY LT3 - Not dumped
 - Mitsubishi M3205 - MAXY DT2  - 386SX-16 mhz - Not dumped
-- Mitsui Digital (DELL) - not dumped
+- Mitsui Digital (DELL) - No info about model and Not dumped
 - Hitachi FLORA 3010 series - Not dumped
 - Hitachi FLORA 3020 series - not dumped
 - NCR PC-AXL - Not dumped
 - NCR PC-AX32 - Not dumped
-- Nihon Unisys, Ltd. - Not dumped
-- Victor Company of Japan JVC - Not dumped
+- Nihon Unisys, Ltd. - Missing info about model and Not dumped
+- Victor Company of Japan JVC - No info about model and Not dumped
 - Yokogawa Hewlett-Packard Vectra-AX Series - not dumped. jega card only
-- Olivetti Japan - unknown model - Not dumped
+- Olivetti Japan - unknown model - No info about model and Not dumped
 - OKI IF386AX30L? Series/30  Jega and bios dumped except the m6226y rom font
 - OKI IF386AX50L Series/50  - Not dumped
 - OKI IF486VX               - Not dumped
