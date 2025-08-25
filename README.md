@@ -10,8 +10,9 @@
 - Casio  AX-8000D/8000L - not dumped
 - Canon  Axi (DX-20/20P/10/10P) - not dumped
 - Kyocera  AX386 model A - not dumped
-- SANYO Electric MCB-17 series/18 series - not dumped
-- Sharp AX286D/286L/AX386 (MZ-8000) - not dumped. only Sharp AX286D mz- unknown model and Sharp Jega-2 unkown rev are dumped.
+- SANYO Electric MBC-17 series/18 series - Only the mbc-17 are dumped
+- Sharp AX286D/286L/
+- AX386 (MZ-8000) - 
 - Sony Quarter L (PCX-300 series) - not dumped
 - Acer Acer 1100/1200/1170 - not dumped
 - NCR PC-AXL/PC-AX32 - not dumped
@@ -31,8 +32,12 @@
 - mitsubishi mp286l just ibm clone but same string without ja at 7ff0. Missing hdd controller dump
 - known computer
 - oki if486VX src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
-- Sharp ax386d https://x.com/noriq2star/status/1907452126927692150
-- Sharp ax386s https://x.com/metal_toufu/status/1791702891700654494
+- Sharp AX286D
+- Sharp AX386 (MZ-8000) - Original
+- Sharp AX386D https://x.com/noriq2star/status/1907452126927692150
+- Sharp AX386S https://x.com/metal_toufu/status/1791702891700654494
+- Sharp AX386V
+- 
 there are some not listed
 
 
