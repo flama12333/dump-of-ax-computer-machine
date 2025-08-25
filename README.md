@@ -7,6 +7,11 @@
 - M6226Y is a kanji font ROM which cannot to be dump due to unknown rom
 
 - List of known ax machine
+- Acer 1100
+- Acer 1200
+- Acer 1170 - not dumped
+
+- 
 - Casio  AX-8000D/8000L - not dumped
 - Canon  Axi DX-20/20P/10/10P) - not dumped
 - Canon  Axi DX-20
@@ -17,9 +22,6 @@
 - Kyocera  AX386 model A - not dumped
 
 - Sony Quarter L (PCX-300 series) - not dumped
-- Acer 1100
-- Acer 1200
-- Acer 1170 - not dumped
 
 - Victor Company of Japan JVC - not dumped
 - Nihon Unisys, Ltd. - not dumped
@@ -40,14 +42,13 @@
 
 - Mitsubishi Electric MAXY
 - Mitsubishi MP286L - Dumped just ibm clone but same string without ja at 7ff0. Missing hdd controller dump
-- Mitsubishi M3201
-- Mitsubishi M3202 - not dumped
-- Mitsubishi M3205
-- MAXY DT2  - 386SX-16 mhz
-- MAXY LT2
-- OKI IF386AX30L? Jega and bios dumped except the m6226y rom font
+- Mitsubishi M3201 - MAXY LT2
+- Mitsubishi M3202 - MAXY LT3
+- Mitsubishi M3205 - MAXY DT2  - 386SX-16 mhz
+
+- OKI IF386AX30L? Series/30  Jega and bios dumped except the m6226y rom font
+- OKI IF386AX50L Series/50  - Undumped
 - OKI IF486VX src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
--  IF386AX30 Series/50 Series - Undumped
 
 - Sharp AX286N - Undumped
 - Sharp AX286L - Undumped
