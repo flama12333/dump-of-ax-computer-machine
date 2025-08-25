@@ -26,6 +26,8 @@
 - Sharp AX386D  - Not dumped - https://x.com/noriq2star/status/1907452126927692150
 - Sharp AX386S - Not dumped - https://x.com/metal_toufu/status/1791702891700654494
 - Sharp AX386V - Not dumped - https://x.com/toshitada1973/status/1757778113965248678
+- Sharp AX386F/386FH-4 - src -https://archive.org/details/OhMZOhx19861989/Oh%21X_1988-07/page/16/mode/2up?q=AX386
+- 
 - Kyocera AX386 model A - not dumped
 - SANYO Electric MBC-17 series - dumped including jega and main bios
 - SANYO Electric MBC-18 series - not dumped
