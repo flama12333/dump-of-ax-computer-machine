@@ -44,7 +44,7 @@
 - Mitsubishi M3202 - not dumped
 - Mitsubishi M3205
 - MAXY DT2  - 386SX-16 mhz
-- 
+- MAXY LT2
 - OKI IF386AX30L? Jega and bios dumped except the m6226y rom font
 - OKI IF486VX src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
 -  IF386AX30 Series/50 Series - Undumped
