@@ -5,38 +5,59 @@
 - there are two custom chip
 - V6367 is the JEGA chip. 
 - M6226Y is a kanji font ROM which cannot to be dump due to unknown rom
+
 - List of known ax machine
-- Oki Electric Industry if386AX30 Series/50 Series - only oki if386ax unknown model was dumped
 - Casio  AX-8000D/8000L - not dumped
-- Canon  Axi (DX-20/20P/10/10P) - not dumped
+- Canon  Axi DX-20/20P/10/10P) - not dumped
+- Canon  Axi DX-20
+- Canon  Axi DX-20P
+- Canon  Axi DX-10
+- Canon  Axi DX-10P
+- 
 - Kyocera  AX386 model A - not dumped
-- SANYO Electric MBC-17 series/18 series - Only the mbc-17 are dumped
-- Sharp AX286D/286L/
-- AX386 (MZ-8000) - 
+
 - Sony Quarter L (PCX-300 series) - not dumped
-- Acer Acer 1100/1200/1170 - not dumped
-- NCR PC-AXL/PC-AX32 - not dumped
+- Acer 1100
+- Acer 1200
+- Acer 1170 - not dumped
+
 - Victor Company of Japan JVC - not dumped
 - Nihon Unisys, Ltd. - not dumped
-- Hitachi FLORA 3010 series/3020 series - not dumped
-- Mitsubishi Electric MAXY
-- M3201 - not dumped
-- M3202 - not dumped
-- M3205 - MAXY DT2  - 386SX-16 mhz - not dumped
-- MP286L - Export version currently dumped except the hdd controller.
-- Yokogawa Hewlett-Packard Vectra-AX Series - not dumped
+- Hitachi FLORA 3010 series
+- Hitachi FLORA 3020 series - not dumped
+- Yokogawa Hewlett-Packard Vectra-AX Series - not dumped. jega card only
 - Mitsui Digital (DELL) - not dumped
 - Olivetti Japan - unknown model not dumped
-- OKI if386AX30L except the m6226y rom font
-- Unrelated
-- mitsubishi mp286l just ibm clone but same string without ja at 7ff0. Missing hdd controller dump
-- known computer
-- oki if486VX src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
-- Sharp AX286D
+
+- NCR PC-AXL
+- NCR PC-AX32 - not dumped
+
+
+- SANYO Electric MBC-17 series - dumped including jega and main bios
+- SANYO Electric MBC-18 series
+
+
+
+- Mitsubishi Electric MAXY
+- Mitsubishi MP286L - Dumped just ibm clone but same string without ja at 7ff0. Missing hdd controller dump
+- Mitsubishi M3201
+- Mitsubishi M3202 - not dumped
+- Mitsubishi M3205
+- MAXY DT2  - 386SX-16 mhz
+- 
+- OKI IF386AX30L? Jega and bios dumped except the m6226y rom font
+- OKI IF486VX src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
+-  IF386AX30 Series/50 Series - Undumped
+
+- Sharp AX286N - Undumped
+- Sharp AX286L - Undumped
+- Sharp AX286D - Undumped
 - Sharp AX386 (MZ-8000) - Original
-- Sharp AX386D https://x.com/noriq2star/status/1907452126927692150
-- Sharp AX386S https://x.com/metal_toufu/status/1791702891700654494
-- Sharp AX386V
+- Sharp AX386D  - Undumped
+- https://x.com/noriq2star/status/1907452126927692150
+- Sharp AX386S - Undumped
+- https://x.com/metal_toufu/status/1791702891700654494
+- Sharp AX386V - Undumped
 - 
 there are some not listed
 
