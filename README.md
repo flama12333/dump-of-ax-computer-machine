@@ -7,61 +7,49 @@
 - M6226Y is a kanji font ROM which cannot to be dump due to unknown rom
 
 - List of known ax machine
-- Acer 1100
-- Acer 1200
+- Acer 1100 - Not dumped
+- Acer 1200 - Not dumped
 - Acer 1170 - not dumped
-
-- 
-- Casio  AX-8000D/8000L - not dumped
-- Canon  Axi DX-20/20P/10/10P) - not dumped
-- Canon  Axi DX-20
-- Canon  Axi DX-20P
-- Canon  Axi DX-10
-- Canon  Axi DX-10P
-- Sharp AX286N - Undumped
-- Sharp AX286L - Undumped
+- Casio AX-8000D - Not dumped
+- Casio AX-8000L - not dumped
+- Canon  Axi DX-20 - Not dumped  
+- Canon  Axi DX-20P - Not dumped
+- Canon  Axi DX-10 - Not dumped
+- Canon  Axi DX-10P - Not dumped
+- Sharp AX286N - Not dumped
+- Sharp AX286L - Not dumped
 - Sharp AX286D - The unknown mz and unknown rev is dumped.
-- Sharp AX386 (MZ-8000) - Original
-- Sharp AX386D  - Undumped
+- Sharp AX386 (MZ-8000)  Original - Not dumped
+- Sharp AX386D  - Not dumped
 - https://x.com/noriq2star/status/1907452126927692150
-- Sharp AX386S - Undumped
+- Sharp AX386S - Not dumped
 - https://x.com/metal_toufu/status/1791702891700654494
-- Sharp AX386V - Undumped
+- Sharp AX386V - Not dumped
 - https://x.com/toshitada1973/status/1757778113965248678
 - Kyocera  AX386 model A - not dumped
-
-
 - SANYO Electric MBC-17 series - dumped including jega and main bios
 - SANYO Electric MBC-18 series - not dumped
 - Sony Quarter L (PCX-300 series) - not dumped
-
 - Mitsubishi Electric MAXY
-- Mitsubishi MP286L - Dumped just ibm clone but same string without ja at 7ff0. Missing hdd controller dump
-- Mitsubishi M3201 - MAXY LT2
-- Mitsubishi M3202 - MAXY LT3
-- Mitsubishi M3205 - MAXY DT2  - 386SX-16 mhz
+- Mitsubishi MP286L - Dumped. just ibm clone but same string without ja at 7ff0. Missing hdd controller dump
+- Mitsubishi M3201 - MAXY LT2 - Not dumped
+- Mitsubishi M3202 - MAXY LT3 - Not dumped
+- Mitsubishi M3205 - MAXY DT2  - 386SX-16 mhz - Not dumped
 - Mitsui Digital (DELL) - not dumped
-
-- Hitachi FLORA 3010 series
+- Hitachi FLORA 3010 series - Not dumped
 - Hitachi FLORA 3020 series - not dumped
-- NCR PC-AXL
-- NCR PC-AX32 - not dumped
-- Nihon Unisys, Ltd. - not dumped
-
-- Victor Company of Japan JVC - not dumped
+- NCR PC-AXL - Not dumped
+- NCR PC-AX32 - Not dumped
+- Nihon Unisys, Ltd. - Not dumped
+- Victor Company of Japan JVC - Not dumped
 - Yokogawa Hewlett-Packard Vectra-AX Series - not dumped. jega card only
-
-
-
-
-
-- Olivetti Japan - unknown model not dumped
+- Olivetti Japan - unknown model - Not dumped
 - OKI IF386AX30L? Series/30  Jega and bios dumped except the m6226y rom font
-- OKI IF386AX50L Series/50  - Undumped
-- OKI IF486VX src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
+- OKI IF386AX50L Series/50  - Not dumped
+- OKI IF486VX               - Not dumped
+- src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
 
 
 there are some not listed
-
 
 
