@@ -51,14 +51,14 @@
 
 - Sharp AX286N - Undumped
 - Sharp AX286L - Undumped
-- Sharp AX286D - Undumped
+- Sharp AX286D - The unknown mz and unknown rev is dumped.
 - Sharp AX386 (MZ-8000) - Original
 - Sharp AX386D  - Undumped
 - https://x.com/noriq2star/status/1907452126927692150
 - Sharp AX386S - Undumped
 - https://x.com/metal_toufu/status/1791702891700654494
 - Sharp AX386V - Undumped
-- 
+- https://x.com/toshitada1973/status/1757778113965248678
 there are some not listed
 
 
