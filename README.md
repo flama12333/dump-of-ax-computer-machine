@@ -50,4 +50,4 @@
 - OKI IF486VX               - Not dumped - src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
 - Proside No info about company.
 - src: https://www.vogons.org/viewtopic.php?t=103290
--there are some not listed
+- there are some not listed
