@@ -48,5 +48,6 @@
 - OKI IF386AX30L? Series/30  Jega and bios dumped except the m6226y rom font
 - OKI IF386AX50L Series/50  - Not dumped
 - OKI IF486VX               - Not dumped - src: https://museum.ipsj.or.jp/en/computer/personal/0046.html
--
+- Proside No info about company.
+- src: https://www.vogons.org/viewtopic.php?t=103290
 -there are some not listed
