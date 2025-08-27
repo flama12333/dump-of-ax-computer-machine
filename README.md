@@ -34,7 +34,7 @@
 - Sony Quarter L (PCX-300 series) - not dumped
 - Mitsubishi MP286L - Dumped. just ibm clone but same string without ja at 7ff0. Missing hdd controller dump
 - Mitsubishi M3201 - MAXY LT2 - Not dumped
-- Mitsubishi M3202 - MAXY LT3 - Not dumped
+- Mitsubishi M3202 - MAXY LT3 - 386?? Not dumped
 - Mitsubishi M3205 - MAXY DT2  - 386SX-16 mhz - Not dumped
 - Mitsui Digital (DELL) - No info about model and Not dumped
 - Hitachi FLORA 3010 series - Not dumped
